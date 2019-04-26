@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.css">
+</head>
+<body>
+<ul>
+    <li>Lorem ipsum dolor sit amet.</li>
+    <li>Architecto cupiditate enim expedita maiores.</li>
+    <li>Amet aperiam cum iusto quod?</li>
+    <li>Accusamus amet cum deserunt quia.</li>
+    <li>Animi assumenda cum fugit officia!</li>
+    <li>Consectetur eveniet molestiae pariatur ratione!</li>
+    <li>Aperiam eaque iste quisquam rerum!</li>
+    <li>Accusamus eum ipsum odio quos.</li>
+    <li>Ea ipsum sed suscipit voluptates.</li>
+    <li>Ea illo neque odit ut?</li>
+</ul>
+</body>
+</html>
